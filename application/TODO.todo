@@ -1,0 +1,18 @@
+BDD :
+    ✔ conception table @done(21-01-07 09:09)
+    ✔ creation donnees @done(21-01-07 09:56)
+    ☐ verification des donnees 
+        ☐ trigger avant l'insertion des commandes de plat etudiant par rapport aux plats du jour
+    ✔ views @done(21-01-07 14:01)
+        ✔ plat du jour @started(21-01-07 09:09) @done(21-01-07 09:14) @lasted(5m8s)
+        ✔ plat a preparer par la cantine @started(21-01-07 09:14) @done(21-01-07 09:20) @lasted(6m51s)
+REST_APi :
+    ✔ Liste des plats du jour @done(21-01-07 10:27)
+    ✔ inscription etu @done(21-01-07 10:43)
+    ✔ Connexion etu @done(21-01-07 10:59)
+    ✔ modification profil etu(nom,dateNaissance) @done(21-01-07 11:17)
+    ☐ commande plat en etant connecte
+        ✔ ajout plat @done(21-01-07 11:49)
+        ☐ modification commande
+        ✔ montant total de la commande @done(21-01-07 12:37)
+    ✔ Liste des plats a preparer par la cantine @done(21-01-07 14:01)
